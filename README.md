@@ -15,7 +15,11 @@
 1. `$ npm i 安装必须有的nodejs环境`
 1. `$ npm run dev`
 
-##uepay钱包接口
+## 实例使用方法
+步骤：1、app扫描H5 URL 生产的二维码。
+2、进入H5页面，点击“在线支付”按钮。
+
+## uepay钱包接口
 1、获取版本号
 ```
 import UePay from 'uepay-wallet-js-sdk/index';
